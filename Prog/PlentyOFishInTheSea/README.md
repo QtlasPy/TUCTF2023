@@ -3,8 +3,7 @@
 <p> On this one we have to find the "One Bit" in a map wich is a log file. So we can start by find numbers in this large text file : </p>
 
 ```bash
-┌──(atlas💀Kali)-[Prog/PlentyOFishInTheSea]
-└─$ grep -E "[0-9]" lost_map.log
+$ grep -E "[0-9]" lost_map.log
 %7B83h%2
 1Nd_7h3_
 W%4073rF
