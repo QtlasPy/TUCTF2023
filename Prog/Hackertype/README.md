@@ -1,6 +1,6 @@
 <h1> Hacker Type : Easy </h1>
 
-  <p> This challenge is to program a code to automatically enter words and retrieve them from the HTML page. Here an example with python and the requests library.</p>
+  <p> This challenge is to program a code to automatically enter words and retrieve them from the HTML page. Here's an example with python and the requests library.</p>
 
   ```python
   import requests
